@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ahmadnazish950@gmail.com**
 
-- ⚡ Fun fact **I m lazy but doing great when i go for it.**
+- ⚡ Fun fact **I m lazy but doing great when i go for it my work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
