@@ -1,11 +1,13 @@
 
 # 🌟 Welcome to My Profile! 🌟
 
-<img src="![buıld your Design](https://github.com/user-attachments/assets/b3ff197c-362c-4275-a866-0857b6a9762f)
-" alt="Github banner" width="100%"/>
+<img src="Build.png" alt="Github banner" width="100%"/>
 
 # Hello World!, I'm Nazish Ahmad a Frontend Developer 👋🏼:
-🛜 Currently Studying <br>👨🏼‍🎓 Studying BCA (Bachelor of Computer Applications), Pursuing in India, Patna <br>🎢 Learning more and achieving better results...<br>
+
+🛜 Currently Studying <br>
+👨🏼‍🎓 Studying BCA (Bachelor of Computer Applications), Pursuing in India, Patna <br>
+🎢 Learning more and achieving better results...<br>
 
 ---
 
@@ -28,6 +30,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadnazish950/Nazish-Ahmad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadnazish950/Nazish-Ahmad/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadnazish950/Nazish-Ahmad/output/github-snake-dark.svg" />
