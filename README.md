@@ -1,6 +1,6 @@
 
 # Hello World!, I'm Nazish Ahmad a Indian Frontend Developer 👋🏼:
-🛜 currently Studying👨🏼‍🎓 studying BCA bachelor of Computer Application pursuing In India , Patna <br>🎢 Learning more and GEt better result....
+🛜 currently Studying👨🏼‍🎓 studying BCA bachelor of Computer Application pursuing In India , Patna <br>🎢 Learning more and GEt better result....<br>
 
 
 # 💻 Tech Stack:
