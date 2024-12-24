@@ -1,8 +1,6 @@
 
 # 🌟 Welcome to My Profile! 🌟
 
-<img src="Build.png" alt="Github banner" width="100%"/>
-
 # Hello World!, I'm Nazish Ahmad a Frontend Developer 👋🏼:
 
 🛜 Currently Studying <br>
@@ -37,9 +35,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadnazish950/Nazish-Ahmad/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadnazish950/Nazish-Ahmad/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
