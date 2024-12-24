@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Nazish Ahmad a Indian Frontend Developer 👋🏼:
+# Hello World!, I'm Nazish Ahmad a Frontend Developer 👋🏼:
 🛜 currently Studying <br>👨🏼‍🎓 Studying BCA bachelor of Computer Application pursuing In India , Patna <br>🎢 Learning more and GEt better result....<br>
 
 
